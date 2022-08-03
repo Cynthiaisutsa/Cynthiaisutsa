@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cynthiaisutsa
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning programming languages
+- 👀 I am a frontend developer
+-Currently working on backend languages
 
 <!---
 Cynthiaisutsa/Cynthiaisutsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
